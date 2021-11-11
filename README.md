@@ -2,6 +2,7 @@
 
 <!--
 **dimitri23559/dimitri23559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="100%">
 
 Here are some ideas to get you started:
 
