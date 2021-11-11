@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
+<img src="https://media1.tenor.com/images/365c0ec07f750e0e44dab4cb24cf31c9/tenor.gif?itemid=16749689" alt="funny GIF" width="100%">
+
+
 **dimitri23559/dimitri23559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="100%">
+
 
 Here are some ideas to get you started:
 
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
